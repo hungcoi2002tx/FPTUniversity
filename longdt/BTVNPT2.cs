@@ -67,6 +67,7 @@
             double m = Convert.ToDouble(Console.ReadLine());
             Console.Write($"Perimeter of the rectange: {Math.Sqrt(n*n + m *m) + n + m}" + $"\nArea of the rectange: {n * m / 2 }");
         }
+        
         static void lession7()
         {
             Console.WriteLine("Input the length of rectange : ");
