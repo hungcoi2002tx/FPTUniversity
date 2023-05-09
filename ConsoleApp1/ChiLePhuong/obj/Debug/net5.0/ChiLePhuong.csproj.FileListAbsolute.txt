@@ -1,0 +1,16 @@
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.exe
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.deps.json
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.runtimeconfig.json
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.runtimeconfig.dev.json
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.dll
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\bin\Debug\net5.0\ChiLePhuong.pdb
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.csproj.AssemblyReference.cache
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.AssemblyInfoInputs.cache
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.AssemblyInfo.cs
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.dll
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\refint\ChiLePhuong.dll
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.pdb
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ChiLePhuong.genruntimeconfig.cache
+F:\PRN211\pr\ConsoleApp1\ChiLePhuong\obj\Debug\net5.0\ref\ChiLePhuong.dll
