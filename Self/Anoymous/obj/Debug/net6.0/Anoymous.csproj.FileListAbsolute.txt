@@ -1,0 +1,15 @@
+F:\PRN211\pr\Anoymous\bin\Debug\net6.0\Anoymous.exe
+F:\PRN211\pr\Anoymous\bin\Debug\net6.0\Anoymous.deps.json
+F:\PRN211\pr\Anoymous\bin\Debug\net6.0\Anoymous.runtimeconfig.json
+F:\PRN211\pr\Anoymous\bin\Debug\net6.0\Anoymous.dll
+F:\PRN211\pr\Anoymous\bin\Debug\net6.0\Anoymous.pdb
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.csproj.AssemblyReference.cache
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.AssemblyInfoInputs.cache
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.AssemblyInfo.cs
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.dll
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\refint\Anoymous.dll
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.pdb
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\Anoymous.genruntimeconfig.cache
+F:\PRN211\pr\Anoymous\obj\Debug\net6.0\ref\Anoymous.dll
