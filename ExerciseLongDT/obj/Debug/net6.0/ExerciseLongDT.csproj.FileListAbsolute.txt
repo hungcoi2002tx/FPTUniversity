@@ -1,0 +1,15 @@
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.csproj.AssemblyReference.cache
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.AssemblyInfoInputs.cache
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.AssemblyInfo.cs
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.csproj.CoreCompileInputs.cache
+E:\prn211\project\ExerciseLongDT\bin\Debug\net6.0\ExerciseLongDT.exe
+E:\prn211\project\ExerciseLongDT\bin\Debug\net6.0\ExerciseLongDT.deps.json
+E:\prn211\project\ExerciseLongDT\bin\Debug\net6.0\ExerciseLongDT.runtimeconfig.json
+E:\prn211\project\ExerciseLongDT\bin\Debug\net6.0\ExerciseLongDT.dll
+E:\prn211\project\ExerciseLongDT\bin\Debug\net6.0\ExerciseLongDT.pdb
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.dll
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\refint\ExerciseLongDT.dll
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.pdb
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ExerciseLongDT.genruntimeconfig.cache
+E:\prn211\project\ExerciseLongDT\obj\Debug\net6.0\ref\ExerciseLongDT.dll

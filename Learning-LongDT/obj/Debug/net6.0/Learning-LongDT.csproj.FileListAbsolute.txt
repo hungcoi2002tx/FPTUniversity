@@ -1,0 +1,15 @@
+E:\prn211\project\Learning-LongDT\bin\Debug\net6.0\Learning-LongDT.exe
+E:\prn211\project\Learning-LongDT\bin\Debug\net6.0\Learning-LongDT.deps.json
+E:\prn211\project\Learning-LongDT\bin\Debug\net6.0\Learning-LongDT.runtimeconfig.json
+E:\prn211\project\Learning-LongDT\bin\Debug\net6.0\Learning-LongDT.dll
+E:\prn211\project\Learning-LongDT\bin\Debug\net6.0\Learning-LongDT.pdb
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.csproj.AssemblyReference.cache
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.AssemblyInfoInputs.cache
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.AssemblyInfo.cs
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.csproj.CoreCompileInputs.cache
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.dll
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\refint\Learning-LongDT.dll
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.pdb
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\Learning-LongDT.genruntimeconfig.cache
+E:\prn211\project\Learning-LongDT\obj\Debug\net6.0\ref\Learning-LongDT.dll

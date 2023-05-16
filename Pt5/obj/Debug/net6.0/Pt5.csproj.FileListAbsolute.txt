@@ -1,0 +1,15 @@
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.csproj.AssemblyReference.cache
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.AssemblyInfoInputs.cache
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.AssemblyInfo.cs
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.csproj.CoreCompileInputs.cache
+E:\prn211\project\Pt5\bin\Debug\net6.0\Pt5.exe
+E:\prn211\project\Pt5\bin\Debug\net6.0\Pt5.deps.json
+E:\prn211\project\Pt5\bin\Debug\net6.0\Pt5.runtimeconfig.json
+E:\prn211\project\Pt5\bin\Debug\net6.0\Pt5.dll
+E:\prn211\project\Pt5\bin\Debug\net6.0\Pt5.pdb
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.dll
+E:\prn211\project\Pt5\obj\Debug\net6.0\refint\Pt5.dll
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.pdb
+E:\prn211\project\Pt5\obj\Debug\net6.0\Pt5.genruntimeconfig.cache
+E:\prn211\project\Pt5\obj\Debug\net6.0\ref\Pt5.dll
