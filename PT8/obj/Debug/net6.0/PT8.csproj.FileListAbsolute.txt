@@ -1,0 +1,15 @@
+F:\PRN211\pr\PT8\bin\Debug\net6.0\PT8.exe
+F:\PRN211\pr\PT8\bin\Debug\net6.0\PT8.deps.json
+F:\PRN211\pr\PT8\bin\Debug\net6.0\PT8.runtimeconfig.json
+F:\PRN211\pr\PT8\bin\Debug\net6.0\PT8.dll
+F:\PRN211\pr\PT8\bin\Debug\net6.0\PT8.pdb
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.csproj.AssemblyReference.cache
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.AssemblyInfoInputs.cache
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.AssemblyInfo.cs
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.dll
+F:\PRN211\pr\PT8\obj\Debug\net6.0\refint\PT8.dll
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.pdb
+F:\PRN211\pr\PT8\obj\Debug\net6.0\PT8.genruntimeconfig.cache
+F:\PRN211\pr\PT8\obj\Debug\net6.0\ref\PT8.dll
