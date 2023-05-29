@@ -1,0 +1,15 @@
+C:\FPT\PRN211\Project\DesignPattern\Overview\bin\Debug\net6.0\Overview.exe
+C:\FPT\PRN211\Project\DesignPattern\Overview\bin\Debug\net6.0\Overview.deps.json
+C:\FPT\PRN211\Project\DesignPattern\Overview\bin\Debug\net6.0\Overview.runtimeconfig.json
+C:\FPT\PRN211\Project\DesignPattern\Overview\bin\Debug\net6.0\Overview.dll
+C:\FPT\PRN211\Project\DesignPattern\Overview\bin\Debug\net6.0\Overview.pdb
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.csproj.AssemblyReference.cache
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.AssemblyInfoInputs.cache
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.AssemblyInfo.cs
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.csproj.CoreCompileInputs.cache
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.dll
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\refint\Overview.dll
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.pdb
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\Overview.genruntimeconfig.cache
+C:\FPT\PRN211\Project\DesignPattern\Overview\obj\Debug\net6.0\ref\Overview.dll

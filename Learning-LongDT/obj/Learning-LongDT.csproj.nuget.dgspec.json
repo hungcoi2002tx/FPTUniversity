@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\prn211\\project\\Learning-LongDT\\Learning-LongDT.csproj": {}
+    "E:\\prn211\\project\\FPTUniversity\\Learning-LongDT\\Learning-LongDT.csproj": {}
   },
   "projects": {
-    "E:\\prn211\\project\\Learning-LongDT\\Learning-LongDT.csproj": {
+    "E:\\prn211\\project\\FPTUniversity\\Learning-LongDT\\Learning-LongDT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\prn211\\project\\Learning-LongDT\\Learning-LongDT.csproj",
+        "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Learning-LongDT\\Learning-LongDT.csproj",
         "projectName": "Learning-LongDT",
-        "projectPath": "E:\\prn211\\project\\Learning-LongDT\\Learning-LongDT.csproj",
+        "projectPath": "E:\\prn211\\project\\FPTUniversity\\Learning-LongDT\\Learning-LongDT.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\prn211\\project\\Learning-LongDT\\obj\\",
+        "outputPath": "E:\\prn211\\project\\FPTUniversity\\Learning-LongDT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

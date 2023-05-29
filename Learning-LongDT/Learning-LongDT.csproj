@@ -6,7 +6,7 @@
     <RootNamespace>Learning_LongDT</RootNamespace>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>Learning_LongDT.Oop1</StartupObject>
+    <StartupObject>Learning_LongDT.Event</StartupObject>
   </PropertyGroup>
 
 </Project>
