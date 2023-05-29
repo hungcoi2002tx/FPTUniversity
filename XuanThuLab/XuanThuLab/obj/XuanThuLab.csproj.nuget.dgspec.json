@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PRN211\\pr\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj": {}
+    "F:\\PRN211\\pr\\FPTUniversity\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj": {}
   },
   "projects": {
-    "F:\\PRN211\\pr\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj": {
+    "F:\\PRN211\\pr\\FPTUniversity\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PRN211\\pr\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj",
+        "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj",
         "projectName": "XuanThuLab",
-        "projectPath": "F:\\PRN211\\pr\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj",
+        "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\XuanThuLab\\XuanThuLab\\XuanThuLab.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "F:\\PRN211\\pr\\XuanThuLab\\XuanThuLab\\obj\\",
+        "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\XuanThuLab\\XuanThuLab\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
