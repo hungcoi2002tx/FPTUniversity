@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\pr\\PT8\\PT8.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\PT8\\PT8.csproj",
       "projectName": "PT8",
-      "projectPath": "F:\\PRN211\\pr\\PT8\\PT8.csproj",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\PT8\\PT8.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\pr\\PT8\\obj\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\PT8\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

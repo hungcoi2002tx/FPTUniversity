@@ -162,7 +162,7 @@ namespace PT81s
         }
         public void RaiseAttackEvent()
         {
-            players.RaiseAttackEvent();
+            //players.AttackEvent();
         }
         public void RaiseDefenseEvent()
         {

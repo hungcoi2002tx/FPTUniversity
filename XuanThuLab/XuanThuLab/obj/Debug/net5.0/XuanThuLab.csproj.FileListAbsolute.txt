@@ -14,3 +14,11 @@ F:\PRN211\pr\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\refint\XuanThu
 F:\PRN211\pr\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.pdb
 F:\PRN211\pr\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.genruntimeconfig.cache
 F:\PRN211\pr\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\ref\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.csproj.CoreCompileInputs.cache
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\refint\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\XuanThuLab\XuanThuLab\obj\Debug\net5.0\XuanThuLab.pdb

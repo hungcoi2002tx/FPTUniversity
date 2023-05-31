@@ -1,0 +1,16 @@
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.exe
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.deps.json
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.runtimeconfig.json
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.runtimeconfig.dev.json
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\bin\Debug\net5.0\XuanThuLab.pdb
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.csproj.CoreCompileInputs.cache
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\refint\XuanThuLab.dll
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.pdb
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\XuanThuLab.genruntimeconfig.cache
+E:\prn211\project\FPTUniversity\Self\Generic\XuanThuLab\obj\Debug\net5.0\ref\XuanThuLab.dll
