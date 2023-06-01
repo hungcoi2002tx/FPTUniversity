@@ -17,3 +17,5 @@ E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsAp
 E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\ref\WinFormsApp2.dll
 E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form2.resources
 E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Form3.resources
+E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Properties.Resources.resources
+E:\prn211\project\FPTUniversity\WinFormsApp2\obj\Debug\net6.0-windows\WinFormsApp2.Pt8.resources
