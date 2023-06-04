@@ -1,0 +1,17 @@
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.frmCarDetails.resources
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.GenerateResource.cache
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.csproj.CoreCompileInputs.cache
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.exe
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.deps.json
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.runtimeconfig.json
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.dll
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\bin\Debug\net6.0-windows\AutomobileWinApp.pdb
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.dll
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\refint\AutomobileWinApp.dll
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.pdb
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\AutomobileWinApp.genruntimeconfig.cache
+E:\prn211\project\FPTUniversity\Lab1\AutomobileWinApp\obj\Debug\net6.0-windows\ref\AutomobileWinApp.dll
