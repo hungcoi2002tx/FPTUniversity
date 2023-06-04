@@ -41,6 +41,9 @@
             btnLoad = new Button();
             btnNew = new Button();
             btnDelete = new Button();
+            dvgCarList = new DataGridView();
+            btnClose = new Button();
+            ((System.ComponentModel.ISupportInitialize)dvgCarList).BeginInit();
             SuspendLayout();
             // 
             // lblCarID
@@ -150,11 +153,32 @@
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
             // 
+            // dvgCarList
+            // 
+            dvgCarList.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dvgCarList.Location = new Point(38, 226);
+            dvgCarList.Name = "dvgCarList";
+            dvgCarList.RowTemplate.Height = 25;
+            dvgCarList.Size = new Size(716, 150);
+            dvgCarList.TabIndex = 13;
+            dvgCarList.CellDoubleClick += dvgCarList_CellDoubleClick;
+            // 
+            // btnClose
+            // 
+            btnClose.Location = new Point(358, 401);
+            btnClose.Name = "btnClose";
+            btnClose.Size = new Size(83, 23);
+            btnClose.TabIndex = 14;
+            btnClose.Text = "Close";
+            btnClose.UseVisualStyleBackColor = true;
+            // 
             // frmCarManagement
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(btnClose);
+            Controls.Add(dvgCarList);
             Controls.Add(btnDelete);
             Controls.Add(btnNew);
             Controls.Add(btnLoad);
@@ -170,6 +194,8 @@
             Controls.Add(lblCarID);
             Name = "frmCarManagement";
             Text = "frmCarManagement";
+            Load += frmCarManagement_Load_1;
+            ((System.ComponentModel.ISupportInitialize)dvgCarList).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
@@ -189,5 +215,7 @@
         private Button btnLoad;
         private Button btnNew;
         private Button btnDelete;
+        private DataGridView dvgCarList;
+        private Button btnClose;
     }
 }

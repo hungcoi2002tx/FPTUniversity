@@ -1,11 +1,52 @@
 {
   "version": 3,
   "targets": {
-    "net6.0-windows7.0": {}
+    "net6.0-windows7.0": {
+      "AutomobileLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/AutomobileLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomobileLibrary.dll": {}
+        }
+      },
+      "AutomobileWinApp/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "AutomobileLibrary": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/AutomobileWinApp.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AutomobileWinApp.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "AutomobileLibrary/1.0.0": {
+      "type": "project",
+      "path": "../AutomobileLibrary/AutomobileLibrary.csproj",
+      "msbuildProject": "../AutomobileLibrary/AutomobileLibrary.csproj"
+    },
+    "AutomobileWinApp/1.0.0": {
+      "type": "project",
+      "path": "../AutomobileWinApp/AutomobileWinApp.csproj",
+      "msbuildProject": "../AutomobileWinApp/AutomobileWinApp.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net6.0-windows7.0": []
+    "net6.0-windows7.0": [
+      "AutomobileLibrary >= 1.0.0",
+      "AutomobileWinApp >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Admin\\.nuget\\packages\\": {}
@@ -13,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
       "projectName": "frmCarManagement",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -33,7 +74,14 @@
       "frameworks": {
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            },
+            "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj": {
+              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
