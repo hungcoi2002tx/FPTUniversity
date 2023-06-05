@@ -7,8 +7,6 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileWinApp", "Automob
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AutomobileLibrary", "AutomobileLibrary\AutomobileLibrary.csproj", "{63349B61-250C-4B68-8B43-1BF332875726}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmCarManagement", "frmCarManagement\frmCarManagement.csproj", "{31BCF7A1-D64D-4F0D-A5CB-54371EBEC1F9}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{63349B61-250C-4B68-8B43-1BF332875726}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{63349B61-250C-4B68-8B43-1BF332875726}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{63349B61-250C-4B68-8B43-1BF332875726}.Release|Any CPU.Build.0 = Release|Any CPU
-		{31BCF7A1-D64D-4F0D-A5CB-54371EBEC1F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{31BCF7A1-D64D-4F0D-A5CB-54371EBEC1F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{31BCF7A1-D64D-4F0D-A5CB-54371EBEC1F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{31BCF7A1-D64D-4F0D-A5CB-54371EBEC1F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

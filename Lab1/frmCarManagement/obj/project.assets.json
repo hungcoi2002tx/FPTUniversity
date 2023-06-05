@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
       "projectName": "frmCarManagement",
-      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\frmCarManagement.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\frmCarManagement\\obj\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\frmCarManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -75,11 +75,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj"
             },
-            "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj": {
-              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj"
+            "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj": {
+              "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileWinApp\\AutomobileWinApp.csproj"
             }
           }
         }

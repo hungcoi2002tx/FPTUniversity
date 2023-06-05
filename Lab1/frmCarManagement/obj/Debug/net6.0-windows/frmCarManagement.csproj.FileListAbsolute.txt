@@ -1,0 +1,7 @@
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.frmCarManagement.resources
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.csproj.GenerateResource.cache
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\Lab1\frmCarManagement\obj\Debug\net6.0-windows\frmCarManagement.csproj.CoreCompileInputs.cache

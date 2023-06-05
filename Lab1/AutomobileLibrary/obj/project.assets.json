@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
       "projectName": "AutomobileLibrary",
-      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\obj\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
