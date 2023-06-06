@@ -1,0 +1,9 @@
+dotnet tool install --global dotnet-ef
+dotnet ef dbcontext scaffold "server =(local); database = MyStock;uid=sa;pwd=123;" Microsoft.EntityFrameworkCore.SqlServer -o Models 
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "server =(local); database = MyStock;uid=sa;pwd=123;"
+  }
+}
+                var ConnectionString = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("DefaultConnection");
+                optionsBuilder.UseSqlServer(ConnectionString);

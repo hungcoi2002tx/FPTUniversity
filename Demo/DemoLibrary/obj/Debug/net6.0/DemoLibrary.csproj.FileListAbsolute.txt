@@ -1,0 +1,14 @@
+E:\prn211\project\Demo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.deps.json
+E:\prn211\project\Demo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.dll
+E:\prn211\project\Demo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.pdb
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.AssemblyReference.cache
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfoInputs.cache
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.AssemblyInfo.cs
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.csproj.CoreCompileInputs.cache
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.dll
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\refint\DemoLibrary.dll
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.pdb
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\ref\DemoLibrary.dll
+E:\prn211\project\Demo\DemoLibrary\bin\Debug\net6.0\DemoLibrary.runtimeconfig.json
+E:\prn211\project\Demo\DemoLibrary\obj\Debug\net6.0\DemoLibrary.genruntimeconfig.cache
