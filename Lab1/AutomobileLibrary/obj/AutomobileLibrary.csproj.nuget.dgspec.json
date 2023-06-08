@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {}
+    "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {}
   },
   "projects": {
-    "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+    "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "projectName": "AutomobileLibrary",
-        "projectPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
+        "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\AutomobileLibrary.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\prn211\\project\\FPTUniversity\\Lab1\\AutomobileLibrary\\obj\\",
+        "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\Lab1\\AutomobileLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

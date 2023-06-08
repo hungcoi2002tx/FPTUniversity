@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\pr\\longdt\\longdt.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\longdt\\longdt.csproj",
       "projectName": "longdt",
-      "projectPath": "F:\\PRN211\\pr\\longdt\\longdt.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\longdt\\longdt.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\pr\\longdt\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\longdt\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

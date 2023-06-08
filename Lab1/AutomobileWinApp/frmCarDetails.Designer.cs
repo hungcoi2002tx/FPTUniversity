@@ -37,7 +37,7 @@
             lblReleaseYear = new Label();
             txtCarID = new TextBox();
             txtCarName = new TextBox();
-            this.txtReleaseYear = new MaskedTextBox();
+            txtReleaseYear = new MaskedTextBox();
             txtPrice = new MaskedTextBox();
             cboManufacturer = new ComboBox();
             SuspendLayout();
@@ -125,12 +125,12 @@
             // 
             // txtReleaseYear
             // 
-            this.txtReleaseYear.Location = new Point(151, 229);
-            this.txtReleaseYear.Mask = "0000";
-            this.txtReleaseYear.Name = "txtReleaseYear";
-            this.txtReleaseYear.Size = new Size(205, 23);
-            this.txtReleaseYear.TabIndex = 15;
-            this.txtReleaseYear.Text = "0";
+            txtReleaseYear.Location = new Point(151, 229);
+            txtReleaseYear.Mask = "0000";
+            txtReleaseYear.Name = "txtReleaseYear";
+            txtReleaseYear.Size = new Size(205, 23);
+            txtReleaseYear.TabIndex = 15;
+            txtReleaseYear.Text = "0";
             // 
             // txtPrice
             // 
@@ -157,7 +157,7 @@
             ClientSize = new Size(396, 376);
             Controls.Add(cboManufacturer);
             Controls.Add(txtPrice);
-            Controls.Add(this.txtReleaseYear);
+            Controls.Add(txtReleaseYear);
             Controls.Add(txtCarName);
             Controls.Add(txtCarID);
             Controls.Add(lblReleaseYear);

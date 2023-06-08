@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\WinFormsApp2\\WinFormsApp2.csproj",
       "projectName": "WinFormsApp2",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\WinFormsApp2\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\WinFormsApp2\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

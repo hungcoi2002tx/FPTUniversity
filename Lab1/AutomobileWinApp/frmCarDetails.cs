@@ -9,10 +9,10 @@ namespace AutomobileWinApp
         {
             InitializeComponent();
         }
-        public ICarRepository CarRepository { get;set; }
+        public ICarRepository CarRepository { get; set; }
 
         public bool InsertOrUpdate { get; set; }
-        public Car CarInfo { get; set; } 
+        public Car CarInfo { get; set; }
         private void btnSave_Click(object sender, EventArgs e)
         {
             try
@@ -25,7 +25,7 @@ namespace AutomobileWinApp
                     Price = decimal.Parse(txtPrice.Text),
                     ReleaseYear = int.Parse(txtReleaseYear.Text)
                 };
-                if(InsertOrUpdate == false )
+                if (InsertOrUpdate == false)
                 {
                     CarRepository.InsertCar(car);
                 }
@@ -33,7 +33,8 @@ namespace AutomobileWinApp
                 {
                     CarRepository.UpdateCar(car);
                 }
-            }   catch (Exception ex)
+            }
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message, InsertOrUpdate == false ? "Add a new car" : "Update a car");
             }
@@ -44,7 +45,7 @@ namespace AutomobileWinApp
         {
             cboManufacturer.SelectedIndex = 0;
             txtCarID.Enabled = !InsertOrUpdate;
-            if(InsertOrUpdate == true)
+            if (InsertOrUpdate == true)
             {
                 txtCarID.Text = CarInfo.CarID.ToString();
                 txtCarName.Text = CarInfo.CarName.ToString();

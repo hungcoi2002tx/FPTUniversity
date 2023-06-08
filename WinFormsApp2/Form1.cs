@@ -11,11 +11,13 @@
         {
 
         }
-            
+
         private void btn1_Click(object sender, EventArgs e)
         {
-            DialogResult dr = MessageBox.Show("You cliked me", "Thông Báo",MessageBoxButtons.OKCancel,MessageBoxIcon.Information);
-            if(dr == DialogResult.OK) {
+            DialogResult dr = MessageBox.Show("You cliked me", "Thông Báo", MessageBoxButtons.OKCancel, MessageBoxIcon.Information);
+
+            if (dr == DialogResult.OK)
+            {
                 MessageBox.Show("Bạn đã đồng ý hi");
             }
             else

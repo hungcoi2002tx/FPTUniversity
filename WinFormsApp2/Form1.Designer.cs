@@ -33,6 +33,7 @@
             // 
             // btn1
             // 
+            btn1.DialogResult = DialogResult.Ignore;
             btn1.Font = new Font("Arial Black", 24F, FontStyle.Bold, GraphicsUnit.Point);
             btn1.ForeColor = Color.Coral;
             btn1.Location = new Point(28, 39);

@@ -1,0 +1,17 @@
+F:\PRN211\pr\FPTUniversity\DialogDemo\bin\Debug\net6.0-windows\DialogDemo.exe
+F:\PRN211\pr\FPTUniversity\DialogDemo\bin\Debug\net6.0-windows\DialogDemo.deps.json
+F:\PRN211\pr\FPTUniversity\DialogDemo\bin\Debug\net6.0-windows\DialogDemo.runtimeconfig.json
+F:\PRN211\pr\FPTUniversity\DialogDemo\bin\Debug\net6.0-windows\DialogDemo.dll
+F:\PRN211\pr\FPTUniversity\DialogDemo\bin\Debug\net6.0-windows\DialogDemo.pdb
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.csproj.AssemblyReference.cache
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.Form1.resources
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.csproj.GenerateResource.cache
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.AssemblyInfoInputs.cache
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.AssemblyInfo.cs
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.dll
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\refint\DialogDemo.dll
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.pdb
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\DialogDemo.genruntimeconfig.cache
+F:\PRN211\pr\FPTUniversity\DialogDemo\obj\Debug\net6.0-windows\ref\DialogDemo.dll

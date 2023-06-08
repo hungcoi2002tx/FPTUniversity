@@ -8,7 +8,7 @@ namespace AutomobileWinApp
     {
         ICarRepository carRepository = new CarRepository();
 
-        BindingSource source;
+        BindingSource source = new BindingSource();
         public frmCarManagement()
         {
             InitializeComponent();
@@ -23,14 +23,15 @@ namespace AutomobileWinApp
 
         private void dvgCarList_CellDoubleClick(object sender, DataGridViewCellEventArgs e)
         {
-            frmCarDetails frmCarDetails = new frmCarDetails()
+            frmCarDetails frmCarDetails = new frmCarDetails
             {
                 Text = "Update car",
                 InsertOrUpdate = true,
                 CarInfo = GetCarObject(),
                 CarRepository = carRepository
             };
-            if (frmCarDetails.ShowDialog() == DialogResult.OK)
+            var a = frmCarDetails.ShowDialog();
+            if (a == DialogResult.OK)
             {
                 LoadCarList();
                 source.Position = source.Count - 1;
@@ -38,10 +39,11 @@ namespace AutomobileWinApp
         }
         public void LoadCarList()
         {
-            var cars = carRepository.GetCars();
+
+
             try
             {
-                source = new BindingSource();
+                var cars = carRepository.GetCars();
                 source.DataSource = cars;
 
                 txtCarID.DataBindings.Clear();
@@ -114,7 +116,10 @@ namespace AutomobileWinApp
                 InsertOrUpdate = false,
                 CarRepository = carRepository
             };
-            if (frmCarDetails.ShowDialog() == DialogResult.OK)
+
+            var a = frmCarDetails.ShowDialog();
+
+            if (a == DialogResult.OK)
             {
                 LoadCarList();
                 source.Position = source.Count - 1;
