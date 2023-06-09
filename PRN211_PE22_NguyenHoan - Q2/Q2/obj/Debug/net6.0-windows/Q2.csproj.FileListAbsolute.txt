@@ -1,0 +1,177 @@
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Q2.exe
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Q2.deps.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Q2.runtimeconfig.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Q2.pdb
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.csproj.AssemblyReference.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.Form1.resources
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.csproj.GenerateResource.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfoInputs.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfo.cs
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.csproj.CoreCompileInputs.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\refint\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.pdb
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.genruntimeconfig.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\ref\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\obj\Debug\net6.0-windows\Q2.csproj.CopyComplete
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan\Q2\bin\Debug\net6.0-windows\appsettings.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\appsettings.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.exe
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.deps.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.runtimeconfig.json
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.pdb
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Humanizer.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.AssemblyReference.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.Form1.resources
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.GenerateResource.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.GeneratedMSBuildEditorConfig.editorconfig
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfoInputs.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfo.cs
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.CoreCompileInputs.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.CopyComplete
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\refint\Q2.dll
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.pdb
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.genruntimeconfig.cache
+C:\FPT\PRN211\Project\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\ref\Q2.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\appsettings.json
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.exe
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.deps.json
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.runtimeconfig.json
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Q2.pdb
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Humanizer.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Json.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileProviders.Physical.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\System.Text.Json.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.Form1.resources
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.GenerateResource.cache
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.CoreCompileInputs.cache
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.csproj.CopyComplete
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\refint\Q2.dll
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.pdb
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\Q2.genruntimeconfig.cache
+E:\prn211\project\FPTUniversity\PRN211_PE22_NguyenHoan - Q2\Q2\obj\Debug\net6.0-windows\ref\Q2.dll
