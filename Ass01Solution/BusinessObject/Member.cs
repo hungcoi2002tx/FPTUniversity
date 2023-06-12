@@ -10,41 +10,41 @@
 			set { id = value; }
 		}
 
-		private int name;
+		private String name;
 
-		public int Name
+		public String Name
 		{
 			get { return name; }
 			set { name = value; }
 		}
 
-		private int email;
+		private String email;
 
-		public int Email
+		public String Email
 		{
 			get { return email; }
 			set { email = value; }
 		}
 
-		private int pass;
+		private String pass;
 
-		public int Pass
+		public String Pass
 		{
 			get { return pass; }
 			set { pass = value; }
 		}
 
-		private int cỉty;
+		private String cỉty;
 
-		public int City
+		public String City
 		{
 			get { return cỉty; }
 			set { cỉty = value; }
 		}
 
-		private int country;
+		private String country;
 
-		public int Country
+		public String Country
 		{
 			get { return country; }
 			set { country = value; }

@@ -34,6 +34,7 @@
             btnCancel = new Button();
             txtEmail = new TextBox();
             txtPass = new TextBox();
+            lblError = new Label();
             SuspendLayout();
             // 
             // label1
@@ -72,6 +73,7 @@
             btnCancel.TabIndex = 3;
             btnCancel.Text = "Cancel";
             btnCancel.UseVisualStyleBackColor = true;
+            btnCancel.Click += btnCancel_Click;
             // 
             // txtEmail
             // 
@@ -84,14 +86,26 @@
             // 
             txtPass.Location = new Point(140, 130);
             txtPass.Name = "txtPass";
+            txtPass.PasswordChar = '!';
             txtPass.Size = new Size(162, 23);
             txtPass.TabIndex = 5;
+            // 
+            // lblError
+            // 
+            lblError.AutoSize = true;
+            lblError.ForeColor = Color.FromArgb(192, 0, 0);
+            lblError.Location = new Point(67, 167);
+            lblError.Name = "lblError";
+            lblError.Size = new Size(142, 15);
+            lblError.TabIndex = 6;
+            lblError.Text = "Email or Passs is incorrect";
             // 
             // frmLogin
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(358, 371);
+            Controls.Add(lblError);
             Controls.Add(txtPass);
             Controls.Add(txtEmail);
             Controls.Add(btnCancel);
@@ -99,7 +113,8 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "frmLogin";
-            Text = "Form1";
+            Text = "Login";
+            Load += frmLogin_Load;
             ResumeLayout(false);
             PerformLayout();
         }
@@ -112,5 +127,6 @@
         private Button btnCancel;
         private TextBox txtEmail;
         private TextBox txtPass;
+        private Label lblError;
     }
 }

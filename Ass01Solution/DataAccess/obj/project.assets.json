@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\Ass01Solution\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\Ass01Solution\\DataAccess\\DataAccess.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Ass01Solution\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\Ass01Solution\\DataAccess\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\Ass01Solution\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\prn211\\project\\FPTUniversity\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "E:\\prn211\\project\\FPTUniversity\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
+            "F:\\PRN211\\pr\\FPTUniversity\\Ass01Solution\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\Ass01Solution\\BusinessObject\\BusinessObject.csproj"
             }
           }
         }

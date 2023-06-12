@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BusinessObject;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,15 @@ using System.Threading.Tasks;
 
 namespace DataAccess.Repository
 {
-    internal class IMemberRepository
+    public interface IMemberRepository
     {
+        public IEnumerable<Member> GetMembers();
+
+        public void AddMember(Member member);
+
+        public void DeleteMember(int id);
+
+        public void UpdateMember(Member member);
+        public Member check(Member member);
     }
 }

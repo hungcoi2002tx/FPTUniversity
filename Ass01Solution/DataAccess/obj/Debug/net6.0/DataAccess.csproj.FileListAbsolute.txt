@@ -1,0 +1,15 @@
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.deps.json
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.dll
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\bin\Debug\net6.0\DataAccess.pdb
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.AssemblyReference.cache
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfoInputs.cache
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.AssemblyInfo.cs
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.csproj.CopyComplete
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.dll
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\refint\DataAccess.dll
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\DataAccess.pdb
+F:\PRN211\pr\FPTUniversity\Ass01Solution\DataAccess\obj\Debug\net6.0\ref\DataAccess.dll
