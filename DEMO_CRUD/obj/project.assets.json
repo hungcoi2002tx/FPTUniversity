@@ -2008,11 +2008,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\DEMO_CRUD\\DEMO_CRUD.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\DEMO_CRUD\\DEMO_CRUD.csproj",
       "projectName": "DEMO_CRUD",
-      "projectPath": "E:\\prn211\\project\\DEMO_CRUD\\DEMO_CRUD.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\DEMO_CRUD\\DEMO_CRUD.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\DEMO_CRUD\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\DEMO_CRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

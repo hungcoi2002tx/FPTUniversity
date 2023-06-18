@@ -84,5 +84,41 @@ namespace DEMO_CRUD
             finally { connection.Close(); }
 
         }
+        public void UpdateCategories(Category category)
+        {
+            connection = new SqlConnection(connectionString);
+            string query = "Update Categories set CategoryName=@CategoryName where CategoryID = @CategoryID";
+            command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@CategoryID", category.CategoryID);
+            command.Parameters.AddWithValue("@CategoryName", category.CategoryName);
+            try
+            {
+                connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch(Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally { connection.Close(); } 
+        }
+
+        public void DeleteCategories(Category category)
+        {
+            connection = new SqlConnection(connectionString);
+            string query = "Delete Case Categories where CategoryID = @CategoryID";
+            command = new SqlCommand(query, connection);
+            command.Parameters.AddWithValue("@CategoryID", category.CategoryID);
+            try
+            {
+                connection.Open();
+                command.ExecuteNonQuery();
+            }
+            catch (Exception ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+            finally { connection.Close(); }
+        }
     }
 }

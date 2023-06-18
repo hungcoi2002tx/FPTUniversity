@@ -34,18 +34,18 @@
             label4 = new Label();
             label5 = new Label();
             label6 = new Label();
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
-            textBox4 = new TextBox();
-            textBox5 = new TextBox();
-            textBox6 = new TextBox();
+            txtMemberID = new TextBox();
+            txtMemberName = new TextBox();
+            txtCity = new TextBox();
+            txtEmail = new TextBox();
+            txtPass = new TextBox();
+            txtCountry = new TextBox();
             btnLoad = new Button();
             btnAdd = new Button();
             btnDelete = new Button();
             txtTitle = new Label();
             dgvEmployeerList = new DataGridView();
-            button1 = new Button();
+            btnClose = new Button();
             ((System.ComponentModel.ISupportInitialize)dgvEmployeerList).BeginInit();
             SuspendLayout();
             // 
@@ -103,47 +103,47 @@
             label6.TabIndex = 5;
             label6.Text = "Country";
             // 
-            // textBox1
+            // txtMemberID
             // 
-            textBox1.Location = new Point(169, 96);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(188, 23);
-            textBox1.TabIndex = 6;
+            txtMemberID.Location = new Point(169, 96);
+            txtMemberID.Name = "txtMemberID";
+            txtMemberID.Size = new Size(188, 23);
+            txtMemberID.TabIndex = 6;
             // 
-            // textBox2
+            // txtMemberName
             // 
-            textBox2.Location = new Point(169, 134);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(188, 23);
-            textBox2.TabIndex = 7;
+            txtMemberName.Location = new Point(169, 134);
+            txtMemberName.Name = "txtMemberName";
+            txtMemberName.Size = new Size(188, 23);
+            txtMemberName.TabIndex = 7;
             // 
-            // textBox3
+            // txtCity
             // 
-            textBox3.Location = new Point(169, 171);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(188, 23);
-            textBox3.TabIndex = 8;
+            txtCity.Location = new Point(169, 171);
+            txtCity.Name = "txtCity";
+            txtCity.Size = new Size(188, 23);
+            txtCity.TabIndex = 8;
             // 
-            // textBox4
+            // txtEmail
             // 
-            textBox4.Location = new Point(524, 93);
-            textBox4.Name = "textBox4";
-            textBox4.Size = new Size(188, 23);
-            textBox4.TabIndex = 9;
+            txtEmail.Location = new Point(524, 93);
+            txtEmail.Name = "txtEmail";
+            txtEmail.Size = new Size(188, 23);
+            txtEmail.TabIndex = 9;
             // 
-            // textBox5
+            // txtPass
             // 
-            textBox5.Location = new Point(524, 134);
-            textBox5.Name = "textBox5";
-            textBox5.Size = new Size(188, 23);
-            textBox5.TabIndex = 10;
+            txtPass.Location = new Point(524, 134);
+            txtPass.Name = "txtPass";
+            txtPass.Size = new Size(188, 23);
+            txtPass.TabIndex = 10;
             // 
-            // textBox6
+            // txtCountry
             // 
-            textBox6.Location = new Point(524, 171);
-            textBox6.Name = "textBox6";
-            textBox6.Size = new Size(188, 23);
-            textBox6.TabIndex = 11;
+            txtCountry.Location = new Point(524, 171);
+            txtCountry.Name = "txtCountry";
+            txtCountry.Size = new Size(188, 23);
+            txtCountry.TabIndex = 11;
             // 
             // btnLoad
             // 
@@ -153,6 +153,7 @@
             btnLoad.TabIndex = 12;
             btnLoad.Text = "Load";
             btnLoad.UseVisualStyleBackColor = true;
+            btnLoad.Click += btnLoad_Click;
             // 
             // btnAdd
             // 
@@ -162,6 +163,7 @@
             btnAdd.TabIndex = 13;
             btnAdd.Text = "Add";
             btnAdd.UseVisualStyleBackColor = true;
+            btnAdd.Click += btnAdd_Click;
             // 
             // btnDelete
             // 
@@ -171,6 +173,7 @@
             btnDelete.TabIndex = 14;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // txtTitle
             // 
@@ -190,34 +193,35 @@
             dgvEmployeerList.RowTemplate.Height = 25;
             dgvEmployeerList.Size = new Size(776, 168);
             dgvEmployeerList.TabIndex = 16;
+            dgvEmployeerList.DoubleClick += dgvEmployeerList_DoubleClick;
             // 
-            // button1
+            // btnClose
             // 
-            button1.Location = new Point(664, 209);
-            button1.Name = "button1";
-            button1.Size = new Size(75, 46);
-            button1.TabIndex = 17;
-            button1.Text = "Close";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click;
+            btnClose.Location = new Point(664, 209);
+            btnClose.Name = "btnClose";
+            btnClose.Size = new Size(75, 46);
+            btnClose.TabIndex = 17;
+            btnClose.Text = "Close";
+            btnClose.UseVisualStyleBackColor = true;
+            btnClose.Click += btnClose_Click;
             // 
             // frmMemberManagement
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
-            Controls.Add(button1);
+            Controls.Add(btnClose);
             Controls.Add(dgvEmployeerList);
             Controls.Add(txtTitle);
             Controls.Add(btnDelete);
             Controls.Add(btnAdd);
             Controls.Add(btnLoad);
-            Controls.Add(textBox6);
-            Controls.Add(textBox5);
-            Controls.Add(textBox4);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(txtCountry);
+            Controls.Add(txtPass);
+            Controls.Add(txtEmail);
+            Controls.Add(txtCity);
+            Controls.Add(txtMemberName);
+            Controls.Add(txtMemberID);
             Controls.Add(label6);
             Controls.Add(label5);
             Controls.Add(label4);
@@ -240,17 +244,17 @@
         private Label label4;
         private Label label5;
         private Label label6;
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
-        private TextBox textBox4;
-        private TextBox textBox5;
-        private TextBox textBox6;
+        private TextBox txtMemberID;
+        private TextBox txtMemberName;
+        private TextBox txtCity;
+        private TextBox txtEmail;
+        private TextBox txtPass;
+        private TextBox txtCountry;
         private Button btnLoad;
         private Button btnAdd;
         private Button btnDelete;
         private Label txtTitle;
         private DataGridView dgvEmployeerList;
-        private Button button1;
+        private Button btnClose;
     }
 }

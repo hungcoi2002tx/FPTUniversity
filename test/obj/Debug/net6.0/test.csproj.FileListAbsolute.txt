@@ -1,0 +1,15 @@
+F:\PRN211\pr\FPTUniversity\test\bin\Debug\net6.0\test.exe
+F:\PRN211\pr\FPTUniversity\test\bin\Debug\net6.0\test.deps.json
+F:\PRN211\pr\FPTUniversity\test\bin\Debug\net6.0\test.runtimeconfig.json
+F:\PRN211\pr\FPTUniversity\test\bin\Debug\net6.0\test.dll
+F:\PRN211\pr\FPTUniversity\test\bin\Debug\net6.0\test.pdb
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.csproj.AssemblyReference.cache
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.GeneratedMSBuildEditorConfig.editorconfig
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.AssemblyInfoInputs.cache
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.AssemblyInfo.cs
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.csproj.CoreCompileInputs.cache
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.dll
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\refint\test.dll
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.pdb
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\test.genruntimeconfig.cache
+F:\PRN211\pr\FPTUniversity\test\obj\Debug\net6.0\ref\test.dll

@@ -31,10 +31,35 @@ namespace DEMO_CRUD
         {
             var category = new Category
             {
-                CategoryID = 9,
+                CategoryID = int.Parse(txtCategoryID.Text),
                 CategoryName = txtCategoryName.Text
             };
             manageCategory.InsertCategories(category);
+            LoadCategory();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            var category = new Category
+            {
+                CategoryID = int.Parse(txtCategoryID.Text),
+                CategoryName = txtCategoryName.Text
+            };
+            manageCategory.UpdateCategories(category);
+            LoadCategory();
+        }
+
+        private void btnClose_Click(object sender, EventArgs e) => this.Close();
+
+        private void btnDelete_Click(object sender, EventArgs e)
+        {
+
+            var category = new Category
+            {
+                CategoryID = int.Parse(txtCategoryID.Text),
+                CategoryName = txtCategoryName.Text
+            };
+            manageCategory.DeleteCategories(category);
             LoadCategory();
         }
     }

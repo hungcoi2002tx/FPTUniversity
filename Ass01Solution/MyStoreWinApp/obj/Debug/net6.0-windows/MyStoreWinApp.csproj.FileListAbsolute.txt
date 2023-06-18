@@ -63,3 +63,4 @@ F:\PRN211\pr\FPTUniversity\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\
 F:\PRN211\pr\FPTUniversity\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.genruntimeconfig.cache
 F:\PRN211\pr\FPTUniversity\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\ref\MyStoreWinApp.dll
 F:\PRN211\pr\FPTUniversity\Ass01Solution\MyStoreWinApp\bin\Debug\net6.0-windows\appsettings.json
+F:\PRN211\pr\FPTUniversity\Ass01Solution\MyStoreWinApp\obj\Debug\net6.0-windows\MyStoreWinApp.MemberDetail.resources

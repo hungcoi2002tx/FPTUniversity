@@ -17,5 +17,7 @@ namespace DataAccess.Repository
 
         public void UpdateMember(Member member);
         public Member check(Member member);
+
+        public Member GetMemberByID(int id);
     }
 }

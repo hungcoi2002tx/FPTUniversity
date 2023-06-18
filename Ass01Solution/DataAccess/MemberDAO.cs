@@ -80,5 +80,7 @@ namespace DataAccess
             Member member1 = members.SingleOrDefault(m => m.Email == member.Email && m.Pass == member.Pass);
             return member;
         }
+
+
     }
 }

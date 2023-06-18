@@ -44,9 +44,9 @@
             // 
             label1.AutoSize = true;
             label1.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
-            label1.Location = new Point(53, 17);
+            label1.Location = new Point(46, 13);
             label1.Name = "label1";
-            label1.Size = new Size(133, 32);
+            label1.Size = new Size(106, 25);
             label1.TabIndex = 0;
             label1.Text = "CategoryID";
             // 
@@ -54,41 +54,45 @@
             // 
             label2.AutoSize = true;
             label2.Font = new Font("Segoe UI", 14F, FontStyle.Regular, GraphicsUnit.Point);
-            label2.Location = new Point(53, 80);
+            label2.Location = new Point(46, 60);
             label2.Name = "label2";
-            label2.Size = new Size(174, 32);
+            label2.Size = new Size(138, 25);
             label2.TabIndex = 1;
             label2.Text = "CategoryName";
             // 
             // txtCategoryID
             // 
-            txtCategoryID.Location = new Point(245, 22);
+            txtCategoryID.Location = new Point(214, 16);
+            txtCategoryID.Margin = new Padding(3, 2, 3, 2);
             txtCategoryID.Name = "txtCategoryID";
-            txtCategoryID.Size = new Size(509, 27);
+            txtCategoryID.Size = new Size(446, 23);
             txtCategoryID.TabIndex = 2;
             // 
             // txtCategoryName
             // 
-            txtCategoryName.Location = new Point(245, 85);
+            txtCategoryName.Location = new Point(214, 64);
+            txtCategoryName.Margin = new Padding(3, 2, 3, 2);
             txtCategoryName.Name = "txtCategoryName";
-            txtCategoryName.Size = new Size(509, 27);
+            txtCategoryName.Size = new Size(446, 23);
             txtCategoryName.TabIndex = 3;
             // 
             // dgvData
             // 
             dgvData.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvData.Location = new Point(53, 132);
+            dgvData.Location = new Point(46, 99);
+            dgvData.Margin = new Padding(3, 2, 3, 2);
             dgvData.Name = "dgvData";
             dgvData.RowHeadersWidth = 51;
             dgvData.RowTemplate.Height = 29;
-            dgvData.Size = new Size(701, 251);
+            dgvData.Size = new Size(613, 188);
             dgvData.TabIndex = 4;
             // 
             // btnInsert
             // 
-            btnInsert.Location = new Point(53, 409);
+            btnInsert.Location = new Point(46, 307);
+            btnInsert.Margin = new Padding(3, 2, 3, 2);
             btnInsert.Name = "btnInsert";
-            btnInsert.Size = new Size(94, 29);
+            btnInsert.Size = new Size(82, 22);
             btnInsert.TabIndex = 5;
             btnInsert.Text = "Insert";
             btnInsert.UseVisualStyleBackColor = true;
@@ -96,36 +100,42 @@
             // 
             // btnUpdate
             // 
-            btnUpdate.Location = new Point(245, 409);
+            btnUpdate.Location = new Point(214, 307);
+            btnUpdate.Margin = new Padding(3, 2, 3, 2);
             btnUpdate.Name = "btnUpdate";
-            btnUpdate.Size = new Size(94, 29);
+            btnUpdate.Size = new Size(82, 22);
             btnUpdate.TabIndex = 6;
             btnUpdate.Text = "Update";
             btnUpdate.UseVisualStyleBackColor = true;
+            btnUpdate.Click += btnUpdate_Click;
             // 
             // btnDelete
             // 
-            btnDelete.Location = new Point(465, 409);
+            btnDelete.Location = new Point(407, 307);
+            btnDelete.Margin = new Padding(3, 2, 3, 2);
             btnDelete.Name = "btnDelete";
-            btnDelete.Size = new Size(94, 29);
+            btnDelete.Size = new Size(82, 22);
             btnDelete.TabIndex = 7;
             btnDelete.Text = "Delete";
             btnDelete.UseVisualStyleBackColor = true;
+            btnDelete.Click += btnDelete_Click;
             // 
             // btnClose
             // 
-            btnClose.Location = new Point(660, 409);
+            btnClose.Location = new Point(578, 307);
+            btnClose.Margin = new Padding(3, 2, 3, 2);
             btnClose.Name = "btnClose";
-            btnClose.Size = new Size(94, 29);
+            btnClose.Size = new Size(82, 22);
             btnClose.TabIndex = 8;
             btnClose.Text = "Close";
             btnClose.UseVisualStyleBackColor = true;
+            btnClose.Click += btnClose_Click;
             // 
             // frmCRUD
             // 
-            AutoScaleDimensions = new SizeF(8F, 20F);
+            AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(800, 450);
+            ClientSize = new Size(700, 338);
             Controls.Add(btnClose);
             Controls.Add(btnDelete);
             Controls.Add(btnUpdate);
@@ -135,6 +145,7 @@
             Controls.Add(txtCategoryID);
             Controls.Add(label2);
             Controls.Add(label1);
+            Margin = new Padding(3, 2, 3, 2);
             Name = "frmCRUD";
             Text = "CRUD_DEMO";
             Load += frmCRUD_Load;

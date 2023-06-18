@@ -34,12 +34,12 @@
 			set { pass = value; }
 		}
 
-		private String cỉty;
+		private String city;
 
 		public String City
 		{
-			get { return cỉty; }
-			set { cỉty = value; }
+			get { return city; }
+			set { city = value; }
 		}
 
 		private String country;

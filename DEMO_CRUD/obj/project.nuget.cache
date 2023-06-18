@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DSGAZFNH0O9ZIQMOIlLskGaGSK+Lf7kxGK8Ro4e6ZrRgTpLhwr6oux3rf0wOSR/AZwDM4KFQYK88xyDXrMAfSQ==",
+  "dgSpecHash": "VjRDkHKUOrHXOtR3TI1YHHcUWpksB1iyt1dJriX9wd7pWsjJDuKIVTXOeKJX6GOyl+Bu619Wb1YK2fQoYKyYyw==",
   "success": true,
-  "projectFilePath": "E:\\prn211\\project\\DEMO_CRUD\\DEMO_CRUD.csproj",
+  "projectFilePath": "F:\\PRN211\\pr\\FPTUniversity\\DEMO_CRUD\\DEMO_CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
