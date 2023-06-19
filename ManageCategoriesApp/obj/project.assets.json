@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
       "projectName": "ManageCategoriesApp",
-      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\ManageCategoriesApp\\ManageCategoriesApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\ManageCategoriesApp\\obj\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\ManageCategoriesApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

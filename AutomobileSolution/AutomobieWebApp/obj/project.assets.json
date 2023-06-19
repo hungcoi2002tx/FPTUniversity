@@ -2380,11 +2380,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\AutomobileSolution\\AutomobieWebApp\\AutomobieWebApp.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobieWebApp\\AutomobieWebApp.csproj",
       "projectName": "AutomobieWebApp",
-      "projectPath": "E:\\prn211\\project\\AutomobileSolution\\AutomobieWebApp\\AutomobieWebApp.csproj",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobieWebApp\\AutomobieWebApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\AutomobileSolution\\AutomobieWebApp\\obj\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobieWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2401,8 +2401,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\prn211\\project\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
-              "projectPath": "E:\\prn211\\project\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
+            "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj": {
+              "projectPath": "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj"
             }
           }
         }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "S/qurMQyluyvVNa2YPl/47FalxMspy59DefIpjDLKWPXjV0sws1AkLbPdG2oo9E2mQ+75a0J5pM5dBavSiGFHQ==",
+  "dgSpecHash": "sdcALxoa9tFNCLi8TtP1f0x8hh3qORZUH0Zzd22gGLPMmkT6M9pg3qv2ET4n6REklnLWhE2qnK6+FnZkmPFOZQ==",
   "success": true,
-  "projectFilePath": "E:\\prn211\\project\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
+  "projectFilePath": "E:\\prn211\\project\\FPTUniversity\\AutomobileSolution\\AutomobileLibrary\\AutomobileLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

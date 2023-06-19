@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\AutomobileSolution",
+    "\\AutomobileSolution\\AutomobieWebApp"
   ],
-  "SelectedNode": "\\PT8.sln",
+  "SelectedNode": "\\AutomobileSolution\\AutomobieWebApp\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
