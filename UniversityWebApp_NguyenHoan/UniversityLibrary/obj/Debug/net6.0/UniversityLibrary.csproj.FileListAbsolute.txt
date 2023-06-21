@@ -12,3 +12,17 @@ C:\FPT\PRN211\Project\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\ne
 C:\FPT\PRN211\Project\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
 C:\FPT\PRN211\Project\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
 C:\FPT\PRN211\Project\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.deps.json
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.runtimeconfig.json
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.dll
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\bin\Debug\net6.0\UniversityLibrary.pdb
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.AssemblyReference.cache
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfoInputs.cache
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.AssemblyInfo.cs
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.csproj.CoreCompileInputs.cache
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.dll
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\refint\UniversityLibrary.dll
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.pdb
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\UniversityLibrary.genruntimeconfig.cache
+E:\prn211\project\FPTUniversity\UniversityWebApp_NguyenHoan\UniversityLibrary\obj\Debug\net6.0\ref\UniversityLibrary.dll

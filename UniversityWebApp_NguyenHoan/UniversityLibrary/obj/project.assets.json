@@ -2422,24 +2422,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Teacher\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\Admin\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\FPT\\PRN211\\Project\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
+      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
       "projectName": "UniversityLibrary",
-      "projectPath": "C:\\FPT\\PRN211\\Project\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
-      "packagesPath": "C:\\Users\\Teacher\\.nuget\\packages\\",
-      "outputPath": "C:\\FPT\\PRN211\\Project\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\obj\\",
+      "projectPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
+      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+      "outputPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Teacher\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

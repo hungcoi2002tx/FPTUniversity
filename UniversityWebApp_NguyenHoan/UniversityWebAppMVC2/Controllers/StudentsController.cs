@@ -31,9 +31,11 @@ namespace UniversityWebAppMVC.Controllers
                                         || s.FirstName.Contains(searchString));
             switch(sortOrder)
             {
-                case "name_desc": students.OrderByDescending(s => s.LastName); 
+                case "name_desc":
+                    students = students.OrderByDescending(s => s.LastName); 
                     break;
-                case "Date": students.OrderBy(s => s.EnrollmentDate);
+                case "Date":
+                    students = students.OrderBy(s => s.EnrollmentDate);
                     break;
                 case "date_desc":
                     students = students.OrderByDescending(s => s.EnrollmentDate);
