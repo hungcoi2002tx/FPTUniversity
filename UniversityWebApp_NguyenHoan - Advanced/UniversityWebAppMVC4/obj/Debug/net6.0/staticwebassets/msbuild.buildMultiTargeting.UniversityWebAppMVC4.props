@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\UniversityWebAppMVC4.props" />
+</Project>
