@@ -1,0 +1,27 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    var greeting = "Wellcome to my world";
+    var weekday = DateTime.Now.DayOfWeek;
+}
+<section>@greeting</section>
+<section>@weekday</section>
+<section>@weekday</section>
+<section>12wwws3</section>
+@{
+    var IDNo = "011123202";
+    <section>IDNO@(IDNo)</section>
+    
+}
+<section>IDNO@(IDNo)</section>
+<section>FirstName: @ViewData["FirstName"]</section>
+<section>Id: @ViewData["emp"]</section>
+<section>Id: @ViewBag.Emp.ID</section>
+<ol type="I" start="5">
+    @foreach(var name in TempData["names"] as List<String>)
+    {
+        <li>@name</li>
+    }
+
+</ol>

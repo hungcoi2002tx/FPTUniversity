@@ -1,6 +1,6 @@
 ﻿@model MyWebApp.Models.HomeModel
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Home Page by ViewData";
 }
 
 <div class="text-center">
@@ -8,3 +8,4 @@
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 </div>
 <section style="color: red">@Model.message</section>
+<section>FirstName: @ViewData["FirstName"]</section>
