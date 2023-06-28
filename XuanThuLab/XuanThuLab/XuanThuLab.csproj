@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>XuanThuLab.Nullable</StartupObject>
+    <StartupObject>XuanThuLab.LearnLinQ</StartupObject>
   </PropertyGroup>
 
 </Project>

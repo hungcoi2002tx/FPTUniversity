@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ug3QMjQoNXNYtoZa/ofzJnzGaSDSeJTngScD5ZiUn9rvLwm0ZI94ovYstQV3tEhBvbLePIIzg1QmMguwkjfgtw==",
+  "dgSpecHash": "rf0Io6xsplgzJcGaKcjSaHiluU9bQRPqNnkMooqU2iwzDqYlF5hJPoyMz/uJcMo9kbwSgqGtxR8dqU5AlwMyXw==",
   "success": true,
-  "projectFilePath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
+  "projectFilePath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",

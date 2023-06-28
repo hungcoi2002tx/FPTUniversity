@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\MyWebApp\\MyWebApp.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\MyWebApp\\MyWebApp.csproj",
       "projectName": "MyWebApp",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\MyWebApp\\MyWebApp.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\MyWebApp\\MyWebApp.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\MyWebApp\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\MyWebApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -10362,11 +10362,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
       "projectName": "UniversityWebAppMVC",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\UniversityWebAppMVC.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityWebAppMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -10383,8 +10383,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj": {
-              "projectPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj"
+            "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj": {
+              "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj"
             }
           }
         }

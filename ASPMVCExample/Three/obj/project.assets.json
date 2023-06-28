@@ -10023,11 +10023,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\Three\\Three.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\Three\\Three.csproj",
       "projectName": "Three",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\Three\\Three.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\Three\\Three.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\Three\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\Three\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

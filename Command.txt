@@ -1,14 +1,29 @@
 dotnet tool install --global dotnet-ef
 
-dotnet ef dbcontext scaffold "server =(local); database = MovieDB;uid=sa;pwd=123456;" Microsoft.EntityFrameworkCore.SqlServer -o Models 
+
+-----Terminal WF
+
+
+
+dotnet ef dbcontext scaffold "server =(local); database = PE_PRN_Sum21;uid=sa;pwd=123;" Microsoft.EntityFrameworkCore.SqlServer -o Models 
+
+---- APPSETTING.JSON
 {
   "ConnectionStrings": {
     "DefaultConnection": "server =(local); database = MovieDB;uid=sa;pwd=123456;"
   }
 }
-------------------
+
+
+------------------ DBCONTEX WF
+
 var ConnectionString = new ConfigurationBuilder().AddJsonFile("appsettings.json").Build().GetConnectionString("DefaultConnection");
 optionsBuilder.UseSqlServer(ConnectionString);
------
+
+
+
+------------------ASP
+
+
 builder.Services.AddDbContext<MovieDBContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));

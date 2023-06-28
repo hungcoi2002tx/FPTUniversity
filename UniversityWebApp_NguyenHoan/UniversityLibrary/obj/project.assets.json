@@ -2427,11 +2427,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
       "projectName": "UniversityLibrary",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\UniversityLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\UniversityWebApp_NguyenHoan\\UniversityLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

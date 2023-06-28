@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\First\\First.csproj": {}
+    "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\First\\First.csproj": {}
   },
   "projects": {
-    "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\First\\First.csproj": {
+    "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\First\\First.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\First\\First.csproj",
+        "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\First\\First.csproj",
         "projectName": "First",
-        "projectPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\First\\First.csproj",
+        "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\First\\First.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\First\\obj\\",
+        "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\First\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -9,57 +9,57 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = six
 build_property.RootNamespace = six
-build_property.ProjectDir = E:\prn211\project\FPTUniversity\ASPMVCExample\six\
+build_property.ProjectDir = F:\PRN211\pr\FPTUniversity\ASPMVCExample\six\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = E:\prn211\project\FPTUniversity\ASPMVCExample\six
+build_property.MSBuildProjectDirectory = F:\PRN211\pr\FPTUniversity\ASPMVCExample\six
 build_property._RazorSourceGeneratorDebug = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Home/Index.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Home/Privacy.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Movies/Create.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Movies/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Movies/Delete.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Movies/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Movies/Details.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Movies/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Movies/Edit.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Movies/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEVkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Movies/Index.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Movies/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTW92aWVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Shared/Error.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Shared/_ValidationScriptsPartial.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/_ViewImports.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/_ViewStart.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[E:/prn211/project/FPTUniversity/ASPMVCExample/six/Views/Shared/_Layout.cshtml]
+[F:/PRN211/pr/FPTUniversity/ASPMVCExample/six/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-88c2mpcr9g

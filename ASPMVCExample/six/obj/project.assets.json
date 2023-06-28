@@ -10752,11 +10752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
+      "projectUniqueName": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
       "projectName": "six",
-      "projectPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
+      "projectPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\six\\obj\\",
+      "outputPath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\six\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

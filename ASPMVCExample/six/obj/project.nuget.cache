@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8ryixzORWgsnx1AcqwfQ4NhkBBRgu6pA9BmAN6T6uXCpTHc6wQnKI8RRYi4muK2Emnj5weR+UFPDNYzJ2kXl8Q==",
+  "dgSpecHash": "giyOjzEX9zK6WrkXzYPvodEzBlVyLjzuvW698r30sGrk6Ck6yO+3iilr3YygnmEbGKkqSQkrSg6VXRsfhRhoMA==",
   "success": true,
-  "projectFilePath": "E:\\prn211\\project\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
+  "projectFilePath": "F:\\PRN211\\pr\\FPTUniversity\\ASPMVCExample\\six\\six.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
